@@ -1,3 +1,3 @@
 <ul>
-  <li><a href="www.purelyfemme.in">Purely Femme</a></li>
+  <li><a href="https://www.purelyfemme.in" target=_blank>Purely Femme</a></li>
 </ul>

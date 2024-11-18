@@ -73,10 +73,10 @@ Also, there has been a rise in corporate investment or collaborations with start
 In addition to creating an atmosphere that is favorable to expansion and success, these regulations are probably going to open up new doors for startups operating in these sectors. Due to their access to a sizable market with a wide range of opportunities across multiple industries, Indian startups also have a lot of potential. With a population of more than 11.3 billion and a middle class that is growing quickly, India offers startups aiming to expand quickly in a variety of sectors, including technology, e-commerce, healthcare, and clean energy. In conclusion, a number of factors have contributed to the notable growth of Indian startup companies in recent years, including the availability of venture capital funding, the pool of talented entrepreneurs, the encouragement of government policies, the expansion of the network of incubators and accelerators, the rise of deep tech companies, the focus on sustainability, social impact, digital transformation, the influence of government policies, challenges, opportunities, the role of technology, growth potential, and success.
 <h2>List Of Startups In India, 2024</h2>
 <ul> [A]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://www.aikenist.com" target="_blank">Aikenist</a></li>
 </ul>
 <ul> [B]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://www.basichomeloan.com" target="_blank">Basic Home Loan</a></li>
 </ul>
 <ul> [C]
   <li><a href="https://www.clayco.in" target="_blank">ClayCo. Cosmetics</a></li>
@@ -88,7 +88,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [F]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://www.furnishka.com" target="_blank">Furnishka</a></li>
 </ul>
 <ul> [G]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -106,7 +106,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [L]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://www.lissun.app" target="_blank">Lissun</a></li>
 </ul>
 <ul> [M]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -115,7 +115,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [O]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://oncarecancer.com" target="_blank">Oncare Cancer</a></li>
 </ul>
 <ul> [P]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>

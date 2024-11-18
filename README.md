@@ -85,6 +85,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
 </ul>
 <ul> [C]
   <li><a href="https://www.clayco.in" target="_blank">ClayCo. Cosmetics</a></li>
+  <li><a href="https://www.cosmicpvpower.com" target="_blank">Cosmic PV Power</a></li>
 </ul>
 <ul> [D]
   <li><a href="https://datazip.io" target="_blank">Datazip</a></li>
@@ -94,11 +95,15 @@ In addition to creating an atmosphere that is favorable to expansion and success
 </ul>
 <ul> [E]
   <li><a href="https://www.economysolutions.in" target="_blank">Economy Process Solutions</a></li>
+  <li><a href="https://www.eruditus.com" target="_blank">Eruditus Executive Education</a></li>
+  <li><a href="https://www.evenflowbrands.com" target="_blank">Evenflow</a></li>
+  
 </ul>
 <ul> [F]
   <li><a href="https://www.furnishka.com" target="_blank">Furnishka</a></li>
   <li><a href="https://frammer.com" target="_blank">Frammer AI</a></li>
   <li><a href="https://figr.design" target="_blank">Figr</a></li>
+  <li><a href="https://creto.co.in" target="_blank">Frelo</a></li>
 </ul>
 <ul> [G]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -121,7 +126,8 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://learntube.ai" target="_blank">LearnTube</a></li>
 </ul>
 <ul> [M]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://magnusfarm.com" target="_blank">Magnus Farm Fresh</a></li>
+  <li><a href="https://mihup.ai" target="_blank">Mihup</a></li>
 </ul>
 <ul> [N]
   <li><a href="https://nayan.co" target="_blank">NAYAN</a></li>
@@ -132,6 +138,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
 </ul>
 <ul> [P]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://www.primuslife.in" target="_blank">Primus</a></li>
 </ul>
 <ul> [Q]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -146,6 +153,8 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://sorichorganics.com" target="_blank">Sorich Organics</a></li>
   <li><a href="https://www.socialhardware.in" target="_blank">Social Hardware International</a></li>
   <li><a href="https://www.swarafincare.com" target="_blank">Swara Fincare</a></li>
+  <li><a href="https://www.superussystems.com" target="_blank">SuperUs</a></li>
+  <li><a href="https://www.suraasa.com" target="_blank">Suraasa</a></li>
   
 </ul>
 <ul> [T]

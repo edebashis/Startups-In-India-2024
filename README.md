@@ -97,7 +97,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [I]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://igdrones.com" target="_blank">IG Drones</a></li>
 </ul>
 <ul> [J]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -130,7 +130,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [T]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://store.troogood.com" target="_blank">Troo Good</a></li>
 </ul>
 <ul> [U]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>

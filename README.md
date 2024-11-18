@@ -79,6 +79,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://a4hospital.com" target="_blank">A4 Hospital</a></li>
   <li><a href="https://www.styleanny.in" target="_blank">Anny</a></li>
   <li><a href="https://www.agnitsemi.com" target="_blank">AGNIT Semiconductors</a></li>
+  <li><a href="https://getalchemystai.com" target="_blank">Alchemyst AI</a></li>
   
 </ul>
 <ul> [B]
@@ -96,6 +97,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.dezy.com" target="_blank">Dezy</a></li>
   <li><a href="https://www.deftouch.co" target="_blank">Deftouch</a></li>
   <li><a href="https://datasciencewizards.ai" target="_blank">Data Science Wizards</a></li>
+  <li><a href="https://droneschoolindia.com" target="_blank">Drone School India</a></li>
   
 </ul>
 <ul> [E]
@@ -130,6 +132,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <ul> [L]
   <li><a href="https://www.lissun.app" target="_blank">Lissun</a></li>
   <li><a href="https://learntube.ai" target="_blank">LearnTube</a></li>
+  <li><a href="https://www.lifechartayurveda.in" target="_blank">Lifechart</a></li>
 </ul>
 <ul> [M]
   <li><a href="https://magnusfarm.com" target="_blank">Magnus Farm Fresh</a></li>
@@ -171,6 +174,9 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://thegoodbug.com" target="_blank">The Good Bug</a></li>
   <li><a href="https://www.traqo.io" target="_blank">Traqo</a></li>
   <li><a href="https://www.tablesprint.com" target="_blank">TableSprint</a></li>
+  <li><a href="https://techinvention.biz" target="_blank">Techinvention</a></li>
+  <li><a href="https://www.truevet.bio" target="_blank">Truevet Animal Nutrition</a></li>
+  
 </ul>
 <ul> [U]
   <li><a href="https://www.urjamobility.com" target="_blank">Urja Mobility</a></li>

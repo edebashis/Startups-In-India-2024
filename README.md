@@ -74,7 +74,8 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <h2>List Of Startups In India, 2024</h2>
 <ul> [A]
   <li><a href="https://www.aikenist.com" target="_blank">Aikenist</a></li>
-   <li><a href="https://adloggs.com" target="_blank">Anything Delivered</a></li>
+  <li><a href="https://adloggs.com" target="_blank">Anything Delivered</a></li>
+  <li><a href="https://aus.co.in" target="_blank">Aereo</a></li>
 </ul>
 <ul> [B]
   <li><a href="https://www.basichomeloan.com" target="_blank">Basic Home Loan</a></li>
@@ -84,13 +85,15 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.clayco.in" target="_blank">ClayCo. Cosmetics</a></li>
 </ul>
 <ul> [D]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://datazip.io" target="_blank">Datazip</a></li>
 </ul>
 <ul> [E]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [F]
   <li><a href="https://www.furnishka.com" target="_blank">Furnishka</a></li>
+  <li><a href="https://frammer.com" target="_blank">Frammer AI</a></li>
+  <li><a href="https://figr.design" target="_blank">Figr</a></li>
 </ul>
 <ul> [G]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -100,6 +103,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
 </ul>
 <ul> [I]
   <li><a href="https://igdrones.com" target="_blank">IG Drones</a></li>
+  <li><a href="https://irasus.com" target="_blank">iRasus Technologies</a></li>
 </ul>
 <ul> [J]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -114,7 +118,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [N]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://nayan.co" target="_blank">NAYAN</a></li>
 </ul>
 <ul> [O]
   <li><a href="https://oncarecancer.com" target="_blank">Oncare Cancer</a></li>

@@ -144,13 +144,15 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.str8bat.com" target="_blank">Str8bat Sport Tech Solutions</a></li>
   <li><a href="https://secretalchemist.com" target="_blank">Secret Alchemist</a></li>
   <li><a href="https://sorichorganics.com" target="_blank">Sorich Organics</a></li>
+  <li><a href="https://www.socialhardware.in" target="_blank">Social Hardware International</a></li>
+  <li><a href="https://www.swarafincare.com" target="_blank">Swara Fincare</a></li>
   
 </ul>
 <ul> [T]
   <li><a href="https://store.troogood.com" target="_blank">Troo Good</a></li>
 </ul>
 <ul> [U]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://www.urjamobility.com" target="_blank">Urja Mobility</a></li>
 </ul>
 <ul> [V]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -159,7 +161,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [X]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://xdlinx.space" target="_blank">XDLINX Space Labs</a></li>
 </ul>
 <ul> [Y]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -167,4 +169,5 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <ul> [Z]
   <li><a href="https://zevoindia.in" target="_blank">Zevo</a></li>
   <li><a href="https://zintlr.com" target="_blank">Zintlr</a></li>
+  <li><a href="https://www.zenstatement.com" target="_blank">ZenStatement</a></li>
 </ul>

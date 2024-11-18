@@ -84,6 +84,8 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <ul> [B]
   <li><a href="https://www.basichomeloan.com" target="_blank">Basic Home Loan</a></li>
   <li><a href="https://www.bioprimeagri.com" target="_blank">BioPrime AgriSolutions</a></li>
+  <li><a href="https://brownliving.in" target="_blank">Brown Living</a></li>
+  
 </ul>
 <ul> [C]
   <li><a href="https://www.clayco.in" target="_blank">ClayCo. Cosmetics</a></li>
@@ -93,6 +95,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://datazip.io" target="_blank">Datazip</a></li>
   <li><a href="https://www.dezy.com" target="_blank">Dezy</a></li>
   <li><a href="https://www.deftouch.co" target="_blank">Deftouch</a></li>
+  <li><a href="https://datasciencewizards.ai" target="_blank">Data Science Wizards</a></li>
   
 </ul>
 <ul> [E]
@@ -166,6 +169,8 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <ul> [T]
   <li><a href="https://store.troogood.com" target="_blank">Troo Good</a></li>
   <li><a href="https://thegoodbug.com" target="_blank">The Good Bug</a></li>
+  <li><a href="https://www.traqo.io" target="_blank">Traqo</a></li>
+  <li><a href="https://www.tablesprint.com" target="_blank">TableSprint</a></li>
 </ul>
 <ul> [U]
   <li><a href="https://www.urjamobility.com" target="_blank">Urja Mobility</a></li>

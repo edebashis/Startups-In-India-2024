@@ -75,3 +75,78 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <ul> [A]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
+<ul> [B]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [C]
+  <li><a href="https://www.clayco.in" target="_blank">ClayCo. Cosmetics</a></li>
+</ul>
+<ul> [D]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [E]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [F]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [G]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [H]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [I]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [J]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [K]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [L]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [M]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [N]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [O]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [P]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [Q]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [R]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [S]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [T]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [U]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [V]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [W]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [X]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [Y]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>
+<ul> [Z]
+  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+</ul>

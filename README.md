@@ -74,9 +74,11 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <h2>List Of Startups In India, 2024</h2>
 <ul> [A]
   <li><a href="https://www.aikenist.com" target="_blank">Aikenist</a></li>
+   <li><a href="https://adloggs.com" target="_blank">Anything Delivered</a></li>
 </ul>
 <ul> [B]
   <li><a href="https://www.basichomeloan.com" target="_blank">Basic Home Loan</a></li>
+  <li><a href="https://www.bioprimeagri.com" target="_blank">BioPrime AgriSolutions</a></li>
 </ul>
 <ul> [C]
   <li><a href="https://www.clayco.in" target="_blank">ClayCo. Cosmetics</a></li>
@@ -129,6 +131,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <ul> [S]
   <li><a href="https://sanchiconnect.com" target="_blank">SanchiConnect</a></li>
   <li><a href="https://www.str8bat.com" target="_blank">Str8bat Sport Tech Solutions</a></li>
+  <li><a href="https://secretalchemist.com" target="_blank">Secret Alchemist</a></li>
 </ul>
 <ul> [T]
   <li><a href="https://store.troogood.com" target="_blank">Troo Good</a></li>
@@ -149,5 +152,6 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [Z]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://zevoindia.in" target="_blank">Zevo</a></li>
+  <li><a href="https://zintlr.com" target="_blank">Zintlr</a></li>
 </ul>

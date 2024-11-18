@@ -77,6 +77,8 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://adloggs.com" target="_blank">Anything Delivered</a></li>
   <li><a href="https://aus.co.in" target="_blank">Aereo</a></li>
   <li><a href="https://a4hospital.com" target="_blank">A4 Hospital</a></li>
+  <li><a href="https://www.styleanny.in" target="_blank">Anny</a></li>
+  <li><a href="https://www.agnitsemi.com" target="_blank">AGNIT Semiconductors</a></li>
   
 </ul>
 <ul> [B]
@@ -109,11 +111,12 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [H]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://www.healspan.com" target="_blank">Healspan</a></li>
 </ul>
 <ul> [I]
   <li><a href="https://igdrones.com" target="_blank">IG Drones</a></li>
   <li><a href="https://irasus.com" target="_blank">iRasus Technologies</a></li>
+  <li><a href="https://www.indiasweethouse.in" target="_blank">India Sweet House</a></li>
 </ul>
 <ul> [J]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -128,6 +131,8 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <ul> [M]
   <li><a href="https://magnusfarm.com" target="_blank">Magnus Farm Fresh</a></li>
   <li><a href="https://mihup.ai" target="_blank">Mihup</a></li>
+  <li><a href="https://www.medprimetech.com" target="_blank">Medprime Technologies</a></li>
+  
 </ul>
 <ul> [N]
   <li><a href="https://nayan.co" target="_blank">NAYAN</a></li>
@@ -139,6 +144,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
 <ul> [P]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
   <li><a href="https://www.primuslife.in" target="_blank">Primus</a></li>
+  <li><a href="https://www.perceptyne.com" target="_blank">Perceptyne Robots</a></li>
 </ul>
 <ul> [Q]
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
@@ -159,6 +165,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
 </ul>
 <ul> [T]
   <li><a href="https://store.troogood.com" target="_blank">Troo Good</a></li>
+  <li><a href="https://thegoodbug.com" target="_blank">The Good Bug</a></li>
 </ul>
 <ul> [U]
   <li><a href="https://www.urjamobility.com" target="_blank">Urja Mobility</a></li>
@@ -173,7 +180,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://xdlinx.space" target="_blank">XDLINX Space Labs</a></li>
 </ul>
 <ul> [Y]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://yoholife.in" target="_blank">Yoho</a></li>
 </ul>
 <ul> [Z]
   <li><a href="https://zevoindia.in" target="_blank">Zevo</a></li>

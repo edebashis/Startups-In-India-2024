@@ -124,7 +124,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.indiasweethouse.in" target="_blank">India Sweet House</a></li>
 </ul>
 <ul> [J]
-  
+  <li><a href="https://www.justo.co.in" target="_blank">Justo</a></li>
 </ul>
 <ul> [K]
 
@@ -156,7 +156,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
  
 </ul>
 <ul> [R]
-  
+  <li><a href="https://recommercex.com" target="_blank">Recommercex</a></li>
 </ul>
 <ul> [S]
   <li><a href="https://sanchiconnect.com" target="_blank">SanchiConnect</a></li>

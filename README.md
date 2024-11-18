@@ -127,7 +127,8 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
 </ul>
 <ul> [S]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  <li><a href="https://sanchiconnect.com" target="_blank">SanchiConnect</a></li>
+  <li><a href="https://www.str8bat.com" target="_blank">Str8bat Sport Tech Solutions</a></li>
 </ul>
 <ul> [T]
   <li><a href="https://store.troogood.com" target="_blank">Troo Good</a></li>

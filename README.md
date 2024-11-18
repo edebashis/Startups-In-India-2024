@@ -113,7 +113,7 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://creto.co.in" target="_blank">Frelo</a></li>
 </ul>
 <ul> [G]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  
 </ul>
 <ul> [H]
   <li><a href="https://www.healspan.com" target="_blank">Healspan</a></li>
@@ -124,10 +124,10 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.indiasweethouse.in" target="_blank">India Sweet House</a></li>
 </ul>
 <ul> [J]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  
 </ul>
 <ul> [K]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+
 </ul>
 <ul> [L]
   <li><a href="https://www.lissun.app" target="_blank">Lissun</a></li>
@@ -153,10 +153,10 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.perceptyne.com" target="_blank">Perceptyne Robots</a></li>
 </ul>
 <ul> [Q]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+ 
 </ul>
 <ul> [R]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+  
 </ul>
 <ul> [S]
   <li><a href="https://sanchiconnect.com" target="_blank">SanchiConnect</a></li>
@@ -183,10 +183,10 @@ In addition to creating an atmosphere that is favorable to expansion and success
   <li><a href="https://www.uravulabs.com" target="_blank">Uravu Labs</a></li>
 </ul>
 <ul> [V]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+ 
 </ul>
 <ul> [W]
-  <li><a href="https://www.purelyfemme.in" target="_blank">Purely Femme</a></li>
+ 
 </ul>
 <ul> [X]
   <li><a href="https://xdlinx.space" target="_blank">XDLINX Space Labs</a></li>
